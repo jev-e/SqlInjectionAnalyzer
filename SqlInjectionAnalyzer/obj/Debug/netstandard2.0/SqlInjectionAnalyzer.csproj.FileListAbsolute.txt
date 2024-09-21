@@ -1,0 +1,12 @@
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.deps.json
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.dll
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.pdb
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.Resources.resources
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.csproj.GenerateResource.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.AssemblyInfo.cs
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.dll
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.pdb

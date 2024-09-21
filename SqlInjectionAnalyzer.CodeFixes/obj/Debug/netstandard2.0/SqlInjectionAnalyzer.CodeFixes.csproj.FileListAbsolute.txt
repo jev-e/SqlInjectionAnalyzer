@@ -1,0 +1,15 @@
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.deps.json
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.dll
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.pdb
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.dll
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\bin\Debug\netstandard2.0\SqlInjectionAnalyzer.pdb
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixResources.resources
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.csproj.GenerateResource.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.AssemblyInfo.cs
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjec.B00DB3B3.Up2Date
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.dll
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.pdb
