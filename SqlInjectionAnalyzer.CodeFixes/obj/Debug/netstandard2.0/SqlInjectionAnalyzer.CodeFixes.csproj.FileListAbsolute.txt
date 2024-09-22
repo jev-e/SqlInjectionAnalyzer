@@ -10,6 +10,7 @@ C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\ob
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.AssemblyInfoInputs.cache
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.AssemblyInfo.cs
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.sourcelink.json
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjec.B00DB3B3.Up2Date
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.dll
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.CodeFixes\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.CodeFixes.pdb

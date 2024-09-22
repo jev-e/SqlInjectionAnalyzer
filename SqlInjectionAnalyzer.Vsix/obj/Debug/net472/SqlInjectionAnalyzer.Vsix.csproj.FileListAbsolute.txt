@@ -80,6 +80,7 @@ C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Deb
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.AssemblyInfoInputs.cache
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.AssemblyInfo.cs
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.csproj.CoreCompileInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.sourcelink.json
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjec.02F534B5.Up2Date
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.dll
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer.Vsix\obj\Debug\net472\SqlInjectionAnalyzer.Vsix.pdb

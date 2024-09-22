@@ -8,5 +8,6 @@ C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\ne
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.AssemblyInfoInputs.cache
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.AssemblyInfo.cs
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.sourcelink.json
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.dll
 C:\Users\Jev\source\repos\SqlInjectionAnalyzer\SqlInjectionAnalyzer\obj\Debug\netstandard2.0\SqlInjectionAnalyzer.pdb

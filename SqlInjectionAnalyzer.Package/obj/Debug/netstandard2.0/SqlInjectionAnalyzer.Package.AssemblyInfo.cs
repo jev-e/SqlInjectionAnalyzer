@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("SqlInjectionAnalyzer")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+229412d30ceee8b0c0bb23571db731e5984c6843")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlInjectionAnalyzer.Package")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlInjectionAnalyzer.Package")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

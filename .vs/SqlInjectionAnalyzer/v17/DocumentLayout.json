@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58888A51-B418-4EE5-8615-D6B6193CEDF9}|SqlInjectionAnalyzer\\SqlInjectionAnalyzer.csproj|c:\\users\\jev\\source\\repos\\sqlinjectionanalyzer\\sqlinjectionanalyzer\\sqlinjectionanalyzeranalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58888A51-B418-4EE5-8615-D6B6193CEDF9}|SqlInjectionAnalyzer\\SqlInjectionAnalyzer.csproj|solutionrelative:sqlinjectionanalyzer\\sqlinjectionanalyzeranalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC33258-3157-4164-B369-93B9BBC2301E}|SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzer.CodeFixes.csproj|c:\\users\\jev\\source\\repos\\sqlinjectionanalyzer\\sqlinjectionanalyzer.codefixes\\sqlinjectionanalyzercodefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC33258-3157-4164-B369-93B9BBC2301E}|SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzer.CodeFixes.csproj|solutionrelative:sqlinjectionanalyzer.codefixes\\sqlinjectionanalyzercodefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SqlInjectionAnalyzerCodeFixProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Jev\\source\\repos\\SqlInjectionAnalyzer\\SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzerCodeFixProvider.cs",
-              "RelativeDocumentMoniker": "SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzerCodeFixProvider.cs",
-              "ToolTip": "C:\\Users\\Jev\\source\\repos\\SqlInjectionAnalyzer\\SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzerCodeFixProvider.cs",
-              "RelativeToolTip": "SqlInjectionAnalyzer.CodeFixes\\SqlInjectionAnalyzerCodeFixProvider.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:38:02.09Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "SqlInjectionAnalyzer\\SqlInjectionAnalyzerAnalyzer.cs",
               "ToolTip": "C:\\Users\\Jev\\source\\repos\\SqlInjectionAnalyzer\\SqlInjectionAnalyzer\\SqlInjectionAnalyzerAnalyzer.cs",
               "RelativeToolTip": "SqlInjectionAnalyzer\\SqlInjectionAnalyzerAnalyzer.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAADAAAAA+AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T16:37:59.921Z",
               "EditorCaption": ""
